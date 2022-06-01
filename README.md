@@ -1,2 +1,4 @@
-# BookStoreApplication
-My into to computer science 2 semester long project! 
+# StudySpot
+A virtual spot to encourage and boost productivity:
+https://sriyamac.github.io/StudySpot.html
+
